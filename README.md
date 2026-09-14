@@ -29,5 +29,6 @@ python -m unittest discover -s tests -v
 ## GitHub
 
 - [Pull Request №1: ветка feature в main](https://github.com/yurtanakatya-cpu/mtp-lab1-variant3/pull/1).
+- [Релиз v1.0](https://github.com/yurtanakatya-cpu/mtp-lab1-variant3/releases/tag/v1.0).
 
 История изменений: `git log --oneline --graph --decorate --all`.
