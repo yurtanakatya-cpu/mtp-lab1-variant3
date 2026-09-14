@@ -18,7 +18,16 @@
 python main.py
 ```
 
-## Выполнение
+Для передачи имени можно указать его аргументом: `python main.py Git`.
 
-Историю изменений можно посмотреть командой `git log --oneline --graph --decorate --all`.
-Ссылки на Pull Request и релиз будут добавлены после их создания.
+## Проверка
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+## GitHub
+
+- [Pull Request №1: ветка feature в main](https://github.com/yurtanakatya-cpu/mtp-lab1-variant3/pull/1).
+
+История изменений: `git log --oneline --graph --decorate --all`.
